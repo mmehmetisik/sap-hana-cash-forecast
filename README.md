@@ -6,7 +6,7 @@
 
 ![What if the largest customer pays 30 days late?](images/02-scenario.png)
 
-▶️ **Demo video:** [18 seconds](video/hazine-tanitim-en.mp4)
+▶️ **Demo video:** [39 seconds, with voice-over](video/sap-hana-cash-forecast-en-voiced.mp4) (text-to-speech voice, Kokoro, generated locally)
 
 **First project of the SAP HANA Finance Series:** Treasury → Tax → Accounting → Finance.
 All of them use SAP's table structure, the Turkish Uniform Chart of Accounts and the real daily FX rates
