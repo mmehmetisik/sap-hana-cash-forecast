@@ -1,0 +1,28 @@
+MANDT,SPRAS,KTOPL,SAKNR,TXT20,TXT50
+100,T,TDHP,1020100001,Banka A TL Vadesiz,Bankalar - Banka A TL Vadesiz Hesap
+100,T,TDHP,1020200001,Banka A USD DTH,Bankalar - Banka A USD Döviz Tevdiat Hesabı
+100,T,TDHP,1020300001,Banka B EUR DTH,Bankalar - Banka B EUR Döviz Tevdiat Hesabı
+100,T,TDHP,1200000001,Alıcılar Yurt İçi,Alıcılar - Yurt İçi
+100,T,TDHP,1200000002,Alıcılar Yurt Dışı,Alıcılar - Yurt Dışı
+100,T,TDHP,1500000001,İlk Madde ve Malzeme,İlk Madde ve Malzeme
+100,T,TDHP,1910000001,İndirilecek KDV,İndirilecek KDV
+100,T,TDHP,2530000001,Tesis Makine Cihaz,"Tesis, Makine ve Cihazlar"
+100,T,TDHP,3000000001,Banka Kredileri,Banka Kredileri
+100,T,TDHP,3200000001,Satıcılar Yurt İçi,Satıcılar - Yurt İçi
+100,T,TDHP,3200000002,Satıcılar Yurt Dışı,Satıcılar - Yurt Dışı
+100,T,TDHP,3350000001,Personele Borçlar,Personele Borçlar
+100,T,TDHP,3600000001,Ödenecek KDV,Ödenecek Vergi ve Fonlar - KDV
+100,T,TDHP,3600000002,Ödenecek Stopaj,Ödenecek Vergi ve Fonlar - Gelir Vergisi Stopajı
+100,T,TDHP,3610000001,Ödenecek SGK,Ödenecek Sosyal Güvenlik Kesintileri
+100,T,TDHP,3910000001,Hesaplanan KDV,Hesaplanan KDV
+100,T,TDHP,5000000001,Sermaye,Sermaye
+100,T,TDHP,6000000001,Yurt İçi Satışlar,Yurt İçi Satışlar
+100,T,TDHP,6010000001,Yurt Dışı Satışlar,Yurt Dışı Satışlar
+100,T,TDHP,6460000001,Kambiyo Kârları,Kambiyo Kârları
+100,T,TDHP,6560000001,Kambiyo Zararları,Kambiyo Zararları
+100,T,TDHP,7200000001,Direkt İşçilik,Direkt İşçilik Giderleri
+100,T,TDHP,7600000001,Paz. Sat. Dağ. Gid.,"Pazarlama, Satış ve Dağıtım Giderleri"
+100,T,TDHP,7700000001,Genel Yönetim Gid.,Genel Yönetim Giderleri
+100,T,TDHP,7700000002,GYG Personel,Genel Yönetim Giderleri - Personel
+100,T,TDHP,7700000003,GYG Kira,Genel Yönetim Giderleri - Kira
+100,T,TDHP,7800000001,Finansman Giderleri,Finansman Giderleri
